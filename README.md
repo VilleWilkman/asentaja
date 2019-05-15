@@ -1,0 +1,2 @@
+# asentaja
+Tilat orjille
