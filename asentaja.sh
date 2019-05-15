@@ -4,7 +4,9 @@ echo "Installing programms and updates..."
 
 sudo apt-get update
 
-sudo apt-get cmatrix
+sudo apt-get upgrade -y
+
+sudo apt-get install cmatrix -y
 
 echo "Done."
 
